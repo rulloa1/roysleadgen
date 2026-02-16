@@ -1,0 +1,7 @@
+{
+  "name": "Roy's Lead Manager CRM",
+  "description": "A high-end CRM dashboard for managing real estate leads with AI-powered personalized email generation using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
